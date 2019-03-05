@@ -7,23 +7,7 @@
 
 
 # ThreaVis
-
-<p align="left">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/vue-2.5.10-brightgreen.svg" alt="vue">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element--ui-2.0.8-brightgreen.svg" alt="element-ui">
-  </a>
-  <a href="https://travis-ci.org/PanJiaChen/vue-element-admin" rel="nofollow">
-    <img src="https://travis-ci.org/PanJiaChen/vue-element-admin.svg?branch=master" alt="Build Status">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/releases">
-    <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="GitHub release">
-  </a>
+  
 </p>
  威胁情报聚合查询及可视分析系统
      威胁情报数据分析是网络安全防护及网络攻击追踪溯源的重要前提，但传统分析方式并不足以反映复杂网络数据的真实情况，只有充分结合专家分析模式与交互式可视化技术，才可以有效帮助分析人员更好的理解网络数据复杂的关联关系。现有的可视化成果存在交互性不够丰富有效、节点布局时间较长以及图的布局效果差等缺点。本文设计并实现了威胁情报多源异构数据的交互式关联钻取技术，利用可视化的方式呈现数据中隐含的信息与威胁的发展规律，提升安全分析人员对威胁情报的解读效率，进而辅助决策。
