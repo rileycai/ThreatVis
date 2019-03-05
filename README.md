@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="200" src="./Img/Security.png" alt="logo">
+  <img width="200" src="./Img/security.png" alt="logo">
   <br>
   <br>
 </p>
@@ -30,7 +30,7 @@
  后台服务已关闭
    
 ## 技术栈
-    vue2 + vuex + vue-router + webpack + axios + element-UI + easy-mock
+    vue2 + vuex + vue-router + webpack + axios + element-UI + d3.js + webSocket
 
 
 ## 开发
@@ -52,8 +52,6 @@
 
 ![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic1.png)
 
-![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic2.png)
-
 ![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic3.png)
 
 ![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic4.png)
@@ -65,9 +63,9 @@
 提取码：918u 
 
 
-## 答卷&论文
-[答卷](https://github.com/zhenzhencai/ChinaVisProject/blob/master/pdf/%E7%AD%94%E5%8D%B7.pdf)
+## 毕业论文&答辩PPT
+毕业论文 [PDF](https://github.com/zhenzhencai/ThreatVis/blob/master/graduate%20thesis.pdf)
 
-[论文](https://github.com/zhenzhencai/ChinaVisProject/blob/master/pdf/%E8%AE%BA%E6%96%87.pdf)
+答辩 [PPT](https://github.com/zhenzhencai/ThreatVis/blob/master/oral%20defense%20for%20graduation.ppt)
 
 Copyright (c) 2018-present ZhenzhenCai
