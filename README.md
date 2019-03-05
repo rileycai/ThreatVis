@@ -6,7 +6,7 @@
 </p>
 
 
-# ChinaVisProject
+# ThreaVis
 
 <p align="left">
   <a href="https://github.com/vuejs/vue">
@@ -25,9 +25,8 @@
     <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="GitHub release">
   </a>
 </p>
- chinavis2018挑战1 一等奖作品 
- 含项目工程源码、演示视频、论文、答卷、项目截图
- 后台服务已关闭
+ 威胁情报聚合查询及可视分析系统
+     威胁情报数据分析是网络安全防护及网络攻击追踪溯源的重要前提，但传统分析方式并不足以反映复杂网络数据的真实情况，只有充分结合专家分析模式与交互式可视化技术，才可以有效帮助分析人员更好的理解网络数据复杂的关联关系。现有的可视化成果存在交互性不够丰富有效、节点布局时间较长以及图的布局效果差等缺点。本文设计并实现了威胁情报多源异构数据的交互式关联钻取技术，利用可视化的方式呈现数据中隐含的信息与威胁的发展规律，提升安全分析人员对威胁情报的解读效率，进而辅助决策。
    
 ## 技术栈
     vue2 + vuex + vue-router + webpack + axios + element-UI + d3.js + webSocket
@@ -68,4 +67,4 @@
 
 答辩 [PPT](https://github.com/zhenzhencai/ThreatVis/blob/master/oral%20defense%20for%20graduation.ppt)
 
-Copyright (c) 2018-present ZhenzhenCai
+Copyright (c) 2017-present ZhenzhenCai
