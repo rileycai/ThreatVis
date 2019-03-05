@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="200" src="./logo.png" alt="logo">
+  <img width="200" src="./Img/Security.png" alt="logo">
   <br>
   <br>
 </p>
@@ -49,24 +49,21 @@
 
 
 ## 效果图
-第一题：
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/001.jpg)
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/002.jpg)
 
+![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic1.png)
 
-第二题：
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/003.jpg)
+![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic2.png)
 
+![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic3.png)
 
-第三题：
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/004.jpg)
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/005.jpg)
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/006.jpg)
-![](https://github.com/zhenzhencai/ChinaVisProject/blob/master/IMG/007.jpg)
+![](https://github.com/zhenzhencai/ThreatVis/blob/master/Img/pic4.png)
+
 
 ## 演示视频
 
-链接：https://pan.baidu.com/s/1-7fLOWdasXVknVouTHUdKw 密码：vml4
+链接：https://pan.baidu.com/s/1jmy4I2AMsfBaZCtV8_3wDg 
+提取码：918u 
+
 
 ## 答卷&论文
 [答卷](https://github.com/zhenzhencai/ChinaVisProject/blob/master/pdf/%E7%AD%94%E5%8D%B7.pdf)
