@@ -15,11 +15,6 @@
 ## 技术栈
     vue2 + vuex + vue-router + webpack + axios + element-UI + d3.js + webSocket
 
-## 视频
-
-```
-<iframe height=498 width=510 src='http://player.youku.com/embed/XNDExMTAxMzQ4NA==' frameborder=0 'allowfullscreen'></iframe>
-```
 ## 开发
 ```bash
     # 克隆项目
